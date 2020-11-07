@@ -12,3 +12,4 @@ class Search(models.Model):
     class Meta:
         verbose_name_plural = 'Searches'
 
+#end here
