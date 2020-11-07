@@ -1,0 +1,1 @@
+web: gunicorn clone_code.wsgi
