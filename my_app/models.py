@@ -13,3 +13,6 @@ class Search(models.Model):
         verbose_name_plural = 'Searches'
 
 #end here
+#anaconda-client==1.7.2
+#anaconda-navigator==1.9.12
+#anaconda-project==0.8.3
