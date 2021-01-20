@@ -8,11 +8,12 @@ Webscraping is used to get the real data from CRAIGSLIST app.<br>
 
 Clone is hosted on Heroku.<br>
 <h1>Tools Used :</h1><br>
+<h2>
 Python<br>
 Beutifulsoup - for scraping the data<br>
 Django - Pythons Web Framework for Developing Sites<br>
 PyCharm <br>
-Heroku - For Hosting<br>
+Heroku - For Hosting<br></h2>
 
 <img src = "homepage.png">
 
