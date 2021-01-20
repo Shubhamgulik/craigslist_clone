@@ -7,7 +7,7 @@ In this, clone is developed by scraping the data from CRAIGSLIST website. <br>
 While developing User Interface is also made better and eyecatching.<br>
 Webscraping is used to get the real data from CRAIGSLIST app.<br></h3>
 
-Clone is hosted on Heroku.<br>
+<h3>Clone is hosted on Heroku.</h3><br>
 <h1>Tools Used :</h1><br>
 <h2>
 Python<br>
@@ -16,7 +16,6 @@ Django - Pythons Web Framework for Developing Sites<br>
 PyCharm <br>
 Heroku - For Hosting<br></h2>
 
-<img src = "homepage.png">
 
 
 
