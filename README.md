@@ -14,7 +14,7 @@ Django - Pythons Web Framework for Developing Sites<br>
 PyCharm <br>
 Heroku - For Hosting<br>
 
-<img src = "homepage">
+<img src = "homepage.png">
 
 
 
